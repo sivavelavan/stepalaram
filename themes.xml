@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.StepAlarm" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
